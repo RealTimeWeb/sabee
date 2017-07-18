@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "jquery": "^3.2.1",
-    "jsdom": "^11.1.0"
+    "jsdom": "^11.1.0",
+    "knockout": "^3.4.2"
   }
 }
